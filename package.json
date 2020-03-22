@@ -14,7 +14,7 @@
     "url": "https://github.com/awslabs/aws-mobile-appsync-sdk-js.git"
   },
   "scripts": {
-    "prepare": "tsc",
+    
     "test": "jest --coverage --coverageReporters=text",
     "test-watch": "jest --watch"
   },
